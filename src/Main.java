@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-    //Persona persona = new Persona("carlos", "45534");
     Empleado empleado1 = new Empleado("pedro", "supervisor",3);
     empleado1.setSalario(2000.0);
     empleado1.setPuesto("contador");
